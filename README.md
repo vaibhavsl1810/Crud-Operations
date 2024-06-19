@@ -1,6 +1,6 @@
 # Simple Crud-Operations
 
-This project will be table data Insert,Update and delete.
+This project will be Insert,Update and Delete data.
 
 Validation for Insert data.  
 
