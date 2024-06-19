@@ -2,6 +2,6 @@
 
 This project will be table data Insert,Update and delete.
 
-Validaion for Insert data.  
+Validation for Insert data.  
 
 Database Name :- "crudoperaion".
